@@ -1,40 +1,33 @@
-AlertOps Expert Guidance
+AlertOps and AppDynamics Integration Takes Your Application Performance Management to the Next Level
 ========
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+AppDynamics is a performance management platform that enables you to track and analyze the performance of your browser and mobile apps from backend to frontend.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+With AppDynamics you get visual representations of the user-facing aspects of your applications. But you also get monitoring capabilities that help you evaluate how your infrastructure affects application performance.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+All this gives you the real-time insights into operational, customer experience, and business outcomes so you can improve user experience with proactive end-to-end performance analytics.
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+The AppDynamics platform is powerful. But it’s meant for optimizing application performance, not managing incidents.
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+Integrating AlertOps and AppDynamics couples application performance optimization with efficient incident communication and management.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+Here’s how AlertOps and AppDynamics keep your app running fast and maximize uptime:
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+    AlertOps automatically opens a new incident whenever AppDynamics reports a trigger status. AlertOps handles the administrative tasks while you take care of business.
+    AlertOps alerts your teams via text, voice, email, or mobile push notifications, so alerts always reach a team member who can resolve the issue.
+    AlertOps automates incident escalation by sending alerts to other systems. This means that incidents are always escalated according to escalation policies.
 
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+AlertOps and AppDynamics are easily integrated using our Generic REST API.
 
-1 Red Canary 2021 Threat Detection Report
+An AlertOps and AppDynamics integration also comes with configurable message routing rules, customizable workflows and escalations, automated severity management, and more—everything you need to make incident management easy.
+
+Head over to our help center to learn how to configure your AlertOps and AppDynamics integration and find out what more AlertOps and AppDynamics can do for you.
+
+Or check out over 40 other third-party integrations for all the tools you already love to use.
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/alertops-and-appdynamics-integration/
 
 Read more:
 ====
